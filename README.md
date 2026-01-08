@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I'm Emem V. John 👋 
-Cloud Engineering Student | Linux • Automation • Infrastructure Fundamentals Writer with a strong interest in systems, clarity, and building things that make sense</h1>
+<h1 align="center">Hi, I'm Emem V. John 👋/h1>
+  
+<h1 Cloud Engineering Student | Linux • Automation • Infrastructure Fundamentals Writer with a strong interest in systems, clarity, and building things that make sense</h1>
 
-<h3 align="center">I’m a cloud engineering student based in Nigeria, currently studying at **AltSchool Africa**. I’m in my early learning phase focused on understanding systems from the ground up — especially Linux environments, automation, and how infrastructure actually works behind the scenes. Alongside tech. I’m also a professional writer. Writing helps me think clearly, document ideas properly, and explain complex things in simple, human language, a skill I intentionally bring into my technical learning.</h3>
+<h3 align="center">I’m a cloud engineering student based in Nigeria, currently studying at **AltSchool Africa**.
+  I’m in my early learning phase focused on understanding systems from the ground up. Linux environments, automation, and how infrastructure actually works behind the scenes. Alongside tech. I’m also a professional writer. Writing helps me think clearly, document ideas properly, and explain complex things in simple, human language, a skill I intentionally bring into my technical learning.</h3>
 
-- 🔭 I’m currently working on **- A **private writing platform** (not public yet) - Hands-on Linux system practice and environment setup - Learning how automation fits into real-world infrastructure workflows**
+- 🔭 I’m currently working on **- A **private writing platform** (not public yet)
+- Hands-on Linux system practice and environment setup
+- Learning how automation fits into real-world infrastructure workflows**
 
 - 🌱 I’m currently learning **- **Linux fundamentals** - File systems, permissions, processes - Package management - Shell usage and system navigation - **Automation basics** - Ansible (playbooks, inventories, basic configuration management) - **Cloud & Infrastructure foundations** - How systems scale - Infrastructure concepts before heavy tooling I’m taking my time to understand *why* things work — not just *how* to run commands.**
 
