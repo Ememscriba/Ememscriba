@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Emem V. John 👋/h1>
+<h1"align="center">Hi, I'm Emem V. John 👋/h1>
   
 <h1 Cloud Engineering Student | Linux • Automation • Infrastructure Fundamentals Writer with a strong interest in systems, clarity, and building things that make sense</h1>
 
