@@ -1,4 +1,4 @@
-# Hi, I’m John Emen 👋
+# Hi, I’m John Emem 👋
 
 Cloud Engineering Student | Linux • Automation • Infrastructure Fundamentals  
 Writer with a strong interest in systems, clarity, and building things that make sense
@@ -7,11 +7,11 @@ Writer with a strong interest in systems, clarity, and building things that make
 
 ## 👨🏽‍💻 About Me
 
-I’m a cloud engineering student based in Nigeria, currently studying at **ALT School Africa (A-L-T)**.
+I’m a cloud engineering student based in Nigeria, currently studying at **ALT School Africa**.
 
-I’m in my early learning phase (first / second semester), focused on understanding systems from the ground up — especially Linux environments, automation, and how infrastructure actually works behind the scenes.
+I’m in my early learning phase (first / second semester), focused on understanding systems from the ground up, especially Linux environments, automation, and how infrastructure actually works behind the scenes.
 
-Alongside tech, I’m also a professional writer. Writing helps me think clearly, document ideas properly, and explain complex things in simple, human language — a skill I intentionally bring into my technical learning.
+Alongside tech, I’m also a professional writer. Writing helps me think clearly, document ideas properly, and explain complex things in simple, human language, a skill I intentionally bring into my technical learning.
 
 ---
 
@@ -39,7 +39,7 @@ Alongside tech, I’m also a professional writer. Writing helps me think clearly
   - How systems scale
   - Infrastructure concepts before heavy tooling
 
-I’m taking my time to understand *why* things work — not just *how* to run commands.
+I’m taking my time to understand *why* things work, not just *how* to run commands.
 
 ---
 
@@ -65,16 +65,13 @@ If it’s honest work and has a learning curve, I’m interested.
 
 ## 📫 How to Reach Me
 
-- Email: **your-email@example.com**
-- Portfolio: **your-portfolio-link**
-- GitHub: You’re already here 🙂
-
+- Email: **ememjohnofficial@gmail.com**
 ---
 
 ## ⚡ A Small Personal Note
 
-I care about understanding systems deeply, not rushing mastery.  
-I believe good infrastructure — like good writing — should be clear, intentional, and resilient.
+I care about understanding systems deeply.  
+I believe good infrastructure, like good writing, should be clear, intentional, and resilient.
 
 
 <h3 align="left">Languages and Tools:</h3>
