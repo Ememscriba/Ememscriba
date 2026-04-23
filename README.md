@@ -1,67 +1,66 @@
-# Hi, I’m John Emem 👋
+# John V. Emem
 
-Cloud Engineering Student | Linux • Automation • Infrastructure Fundamentals  
-Writer with a strong interest in systems, clarity, and building things that make sense
+Cloud Engineering Student | Linux • Automation • Infrastructure Practice  
+Writer focused on clarity, systems thinking, and real-world technical understanding
 
 ---
 
 ## 👨🏽‍💻 About Me
 
-I’m a cloud engineering student based in Nigeria, currently studying at **ALT School Africa**.
+I’m a cloud engineering student at **ALT School Africa**, working actively with Linux systems, automation tools, and infrastructure concepts through hands-on practice.
 
-I’m in my early learning phase (first / second semester), focused on understanding systems from the ground up, especially Linux environments, automation, and how infrastructure actually works behind the scenes.
+I focus on understanding how systems behave in real environments — not just theory, but how things run, fail, and are maintained in practice.
 
-Alongside tech, I’m also a professional writer. Writing helps me think clearly, document ideas properly, and explain complex things in simple, human language, a skill I intentionally bring into my technical learning.
-
----
-
-## 🔭 What I’m Currently Working On
-
-- A **private writing platform** (not public yet)
-- Hands-on Linux system practice and environment setup
-- Learning how automation fits into real-world infrastructure workflows
-
-> Some projects are intentionally kept private while in active development.
+Alongside engineering, I’m a writer. Writing helps me structure technical ideas clearly and translate complex systems into simple, understandable language.
 
 ---
 
-## 🌱 What I’m Currently Learning
+## 🔭 What I Work With
 
-- **Linux fundamentals**
-  - File systems, permissions, processes
-  - Package management
-  - Shell usage and system navigation
+- Linux systems (permissions, processes, filesystems)
+- Automation fundamentals (Ansible and configuration workflows)
+- Infrastructure concepts (how systems are designed and maintained)
 
-- **Automation basics**
-  - Ansible (playbooks, inventories, basic configuration management)
-
-- **Cloud & Infrastructure foundations**
-  - How systems scale
-  - Infrastructure concepts before heavy tooling
-
-I’m taking my time to understand *why* things work, not just *how* to run commands.
+I build understanding through practice, experimentation, and small systems I can actually run.
 
 ---
 
-## 👯 Open to Collaboration On
+## 🛠️ What I’m Working On
 
-- Beginner-friendly cloud or Linux projects
+- A private writing platform (in development)
+- Linux system practice and configuration work
+- Exploring automation workflows in real environments
+
+---
+
+## 💡 How I Approach Engineering
+
+I focus on how systems behave, not just how to use tools.
+
+My goal is to build strong fundamentals in infrastructure so I can work confidently in real cloud environments.
+
+---
+
+## 👯 Collaboration Interests
+
+- Linux and cloud learning projects
+- Automation practice environments
 - Documentation and technical writing
-- Automation experiments and learning-focused repositories
-- Any project where clarity, structure, and learning matter
-
-If it’s honest work and has a learning curve, I’m interested.
+- Beginner-to-intermediate infrastructure builds
 
 ---
 
-## 💬 Ask Me About
+## 📫 Reach Me
 
-- Learning cloud engineering from scratch
-- Linux as a beginner
-- Writing, storytelling, and documentation
-- Translating complex ideas into clear explanations
+- Email: **ememjohnofficial@gmail.com**
 
 ---
+
+## ⚡ Note
+
+Good systems are not just functional — they are understandable, maintainable, and intentional.
+
+That’s the kind of engineering I’m working toward.
 
 ## 📫 How to Reach Me
 
