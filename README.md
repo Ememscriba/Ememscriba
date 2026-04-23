@@ -50,12 +50,6 @@ I build infrastructure understanding that supports secure, scalable, and reliabl
 
 ---
 
-## 📫 Reach Me
-
-can: **ememjohnofficial@gmail.com**
-
----
-
 ## ⚡ Note
 
 Good systems are not just functional — they are understandable, maintainable, and intentional.
