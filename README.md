@@ -3,8 +3,6 @@
 Cloud Engineering Student | Linux • Automation • Infrastructure Practice  
 Writer focused on clarity, systems thinking, and real-world technical understanding
 
----
-
 ## 👨🏽‍💻 About Me
 
 I’m a cloud engineering student at **ALT School Africa**, working actively with Linux systems, automation tools, and infrastructure concepts through hands-on practice.
